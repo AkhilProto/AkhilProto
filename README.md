@@ -16,7 +16,7 @@
 
 👾 **▸ About my hobbies, I like:**
 
-🎮 `Games` • 🏎️ `Science` • 🎲 `AI` • 🖌️ `Movies` • 📚 `Learning` • 🎧 `Music` 
+🎮 `Games` • 🔬 `Science` • 🤖 `AI` • 🖌️ `Movies` • 📚 `Learning` • 🎧 `Music` 
 
 ##
 
