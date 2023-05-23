@@ -27,6 +27,10 @@
 
 ###
 
+
+<p align="center">Currently Learning:</p>
+
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
 </div>
@@ -34,12 +38,6 @@
 ###
 
 <img align="right" height="150" src="https://tenor.com/bimC7.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AkhilProto/AkhilProto/output/snake.svg" alt="Snake animation" />
 
 ###
 
