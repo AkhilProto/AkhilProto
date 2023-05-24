@@ -14,7 +14,7 @@
 📚 **▸** I am studying in Grade 9. \
 📫 **▸** I'm looking forward to find my place in the programming world.
 
-👾 **▸ About my hobbies, I like:**
+👾 **▸ About my hobbies(Apart from coding), I like:**
 
 🎮 `Games` • 🔬 `Science` • 🤖 `AI` • 🖌️ `Movies` • 📚 `Learning` • 🎧 `Music` 
 
@@ -71,7 +71,7 @@
 ###
   
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tb74cteqqjrdoxb4qffqfpmqre&count=5" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tb74cteqqjrdoxb4qffqfpmqre&count=10" alt="Spotify recently played"  />
 </div>
   
   
