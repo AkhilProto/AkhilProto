@@ -68,7 +68,6 @@
 </div>    
 
 ###  
-Click This👆
 
 ![Snake animation](https://github.com/farshadz1997/farshadz1997/blob/output/github-contribution-grid-snake.svg)
 
