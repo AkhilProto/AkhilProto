@@ -30,7 +30,7 @@
 ---
 
 ![AkhilProto's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AkhilProto&&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilproto&layout=compact&theme=tokyonight)
 ![AkhilProto's stats](https://github-readme-streak-stats.herokuapp.com/?user=AkhilProto&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118)
 
 ### <a href="https://emoji.gg/emoji/8388-moyaimad"><img src="https://cdn3.emoji.gg/emojis/8388-moyaimad.png" width="23px" height="23px" alt="Moyaimad"></a> What I know?
