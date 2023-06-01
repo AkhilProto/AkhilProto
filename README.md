@@ -29,8 +29,8 @@
 ### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20px" height="20px" alt="BlurpleGithub-emoji"></a>&#160; My Stats:
 ---
 
-![AkhilProto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhilProto&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118)
-![AkhilProto's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilProto&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118)
+![AkhilProto's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AkhilProto&&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 ![AkhilProto's stats](https://github-readme-streak-stats.herokuapp.com/?user=AkhilProto&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118)
 
 ### <a href="https://emoji.gg/emoji/8388-moyaimad"><img src="https://cdn3.emoji.gg/emojis/8388-moyaimad.png" width="23px" height="23px" alt="Moyaimad"></a> What I know?
