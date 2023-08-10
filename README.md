@@ -72,10 +72,6 @@ Click on the Emoji
 
   
 ###
-  
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tb74cteqqjrdoxb4qffqfpmqre&count=10" alt="Spotify recently played"  />
-</div>
-  
+
   
 </div>
