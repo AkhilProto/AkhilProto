@@ -11,12 +11,11 @@
 **👋 Hey, I'm Akhil!**
 
 🌱 **▸** I'm currently learning **Python**. \
-📚 **▸** I am studying in Grade 9. \
-📫 **▸** I'm looking forward to find my place in the programming world.
+📚 **▸** I am studying in Grade 10. \
 
 👾 **▸ About my hobbies(Apart from coding), I like:**
 
-🎮 `Games` • 🔬 `Science` • 🤖 `AI` • 🖌️ `Movies` • 📚 `Learning` • 🎧 `Music` 
+🔬 `Science` • 🤖 `AI` • 🖌️ `Movies` • 📚 `Learning` • 🎧 `Music`• 🏏 `Cricket` 
 
 ##
 
