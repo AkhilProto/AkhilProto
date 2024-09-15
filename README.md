@@ -12,7 +12,7 @@
 
 🔬 `Science` • 🤖 `AI` • 🖌️ `Movies` • 📚 `Learning` • 🎧 `Music`• 🏏 `Cricket` 
 
-
+[Things I'm good at](https://creations.mtdv.me/akhilproto)
 
 ##
 
