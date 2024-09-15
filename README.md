@@ -3,9 +3,9 @@
 
 
 
-- **Grade 10** student 📚. I study biology, master the art of procrastination ⏳, and plan world domination (nicely).
+- **Grade 10** student 📚. I study a lot of biology, master the art of procrastination ⏳, and plan world domination (nicely).
 - Big into *Neuralink* 💻, deep thinking 🤔, IT Geekery, and Rickrolling 🎶 unsuspecting victims.
-- Subtle flex: Came 3rd and was a finalist in IIT Hyderabad and IIT Bombay’s national-level coding hackathon with my team 🏆.
+- Subtle flex: Came 3rd(2023) and was a finalist(2024) in IIT Hyderabad and IIT Bombay’s national-level coding hackathon with my team 🏆.
 - Determined 💪, focused 🎯, and always pushing boundaries (except bad friendships).
 
 👾 **▸ About my hobbies(Apart from coding), I like:**
