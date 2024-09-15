@@ -1,21 +1,18 @@
-<h2 align="left">Hi 👋! My name is Akhil and I'm a Student learning programming, from India</h2>
+<h2 align="left">👋 Hi, I’m Akhil – An aspiring neurosurgeon 🧠.</h2>
 
 
 
-<div align="left">
-    <details>
-<summary>📕 About Me!</summary>
 
-## Resume: (About Me!)
-
-**👋 Hey, I'm Akhil!**
-
-🌱 **▸** I'm currently learning **Python**. \
-📚 **▸** I am studying in Grade 10. \
+- **Grade 10** student 📚. I study biology, master the art of procrastination ⏳, and plan world domination (nicely).
+- Big into *Neuralink* 💻, deep thinking 🤔, IT Geekery, and Rickrolling 🎶 unsuspecting victims.
+- Subtle flex: Came 3rd and was a finalist in IIT Hyderabad and IIT Bombay’s national-level coding hackathon with my team 🏆.
+- Determined 💪, focused 🎯, and always pushing boundaries (except bad friendships).
 
 👾 **▸ About my hobbies(Apart from coding), I like:**
 
 🔬 `Science` • 🤖 `AI` • 🖌️ `Movies` • 📚 `Learning` • 🎧 `Music`• 🏏 `Cricket` 
+
+
 
 ##
 
@@ -32,22 +29,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilproto&layout=compact&theme=tokyonight)
 ![AkhilProto's stats](https://github-readme-streak-stats.herokuapp.com/?user=AkhilProto&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118)
 
-### <a href="https://emoji.gg/emoji/8388-moyaimad"><img src="https://cdn3.emoji.gg/emojis/8388-moyaimad.png" width="23px" height="23px" alt="Moyaimad"></a> What I know?
----
-<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">&nbsp;&nbsp;
 
-<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;&nbsp;
-
-  ---
-  ---
-### <a href="https://emoji.gg/emoji/5606-dontknow"><img src="https://cdn3.emoji.gg/emojis/5606-dontknow.png" width="23px" height="23px" alt="dontknow"></a> What am I currently learning?
----
-<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">&nbsp;&nbsp;
-
-  ---
   ---
 ### <a href="https://emoji.gg/emoji/5606-dontknow"><img src="https://cdn3.emoji.gg/emojis/5606-dontknow.png" width="23px" height="23px" alt="dontknow"></a> Contact Me!!
----  
 ###
 
 <div align="center">
@@ -57,20 +41,11 @@
   </a>
 </div>
 
-
+---
     
  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank">
     <img src="https://cdn3.emoji.gg/emojis/7857-shhh.png" alt="shh"  />
   </a>
 Click on the Emoji
-</div>    
-
-###  
-
-![Snake animation](https://github.com/farshadz1997/farshadz1997/blob/output/github-contribution-grid-snake.svg)
-
-  
-###
-
   
 </div>
