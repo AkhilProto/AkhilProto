@@ -12,6 +12,8 @@
 
 🔬 `Science` • 🤖 `AI` • 🖌️ `Movies` • 📚 `Learning` • 🎧 `Music`• 🏏 `Cricket` 
 
+**Fun Fact** - This profile has 4 rickrolls hidden!
+
 [Things I'm good at](https://creations.mtdv.me/akhilproto)
 
 ##
