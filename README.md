@@ -14,7 +14,7 @@
 
 **Fun Fact** - This profile has 4 rickrolls hidden!
 
-[Things I'm good at](https://creations.mtdv.me/akhilproto)
+[Things I'm really good at](https://creations.mtdv.me/akhilproto)
 
 ##
 
