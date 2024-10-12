@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m Akhil – An aspiring neurosurgeon 🧠.</h2>
+<h2 align="left">👋 Hey! I’m Akhil – An aspiring neurosurgeon 🧠.</h2>
 
 
 
